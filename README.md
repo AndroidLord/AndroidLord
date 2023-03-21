@@ -20,5 +20,5 @@ I am a passionate Android developer with a strong foundation in Java programming
 - 🤔 I’m looking for help with [Blood Link](https://github.com/AndroidLord/BloodLink) as it turns out this project has turned pretty big and needed help with adding New features...
 
 - 💬 Ask me about Java, Firebase, Android Studio
-- 📫 How to reach me: shubhambisht965@gmail.com Or Through [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamsinghbisht-androiddeveloper/)
+- 📫 How to reach me: shubhambisht965@gmail.com Or Through Linkedin
 
