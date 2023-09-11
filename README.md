@@ -29,7 +29,7 @@ Let's connect and explore the vast and exciting world of technology together. Fe
 
 - 🔭 I’m currently working on [Manga Extractor]([https://github.com/AndroidLord/BloodLink](https://github.com/AndroidLord/MangaExtractor))
 - 🌱 I’m currently learning backened technology — Django
-- 👯 I’m looking to collaborate on [Manga Extractor]([https://github.com/AndroidLord/BloodLink](https://github.com/AndroidLord/MangaExtractor)) as it turns out this project has turned pretty big and needed help with adding New features...
+- 👯 I’m looking to collaborate on [Manga Extractor]([https://github.com/AndroidLord/BloodLink](https://github.com/AndroidLord/MangaExtractor)) Join Us: If you're passionate about manga and software development, let's work together to make a difference!
 
 - 💬 Ask me about Java, Android, Django, Web Scraping, 
 - 📫 How to reach me: shubhambisht965@gmail.com Or Through [Linkedin](https://www.linkedin.com/in/shubhamsinghbisht-androiddeveloper/)
