@@ -24,11 +24,8 @@ Let's connect and explore the vast and exciting world of technology together. Fe
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-- 🔭 I’m currently working on [Technical Event Management](https://github.com/AndroidLord/TechnicalEventManagement);)
 - 🌱 I’m currently learning backened technology — Django
-- 👯 I’m looking to collaborate on [Manga Extractor](https://github.com/AndroidLord/MangaExtractor) Join Us: If you're passionate about manga and software development, let's work together to make a difference!
 
-- 💬 Ask me about Java, Kotlin, Android, Django, Web Scraping, FastAPI
+- 💬 Ask me about Java, Kotlin, Android, Django, Web Scraping, FastAPI, Postgressql
 - 📫 How to reach me: shubhambisht965@gmail.com Or Through [Linkedin](https://www.linkedin.com/in/shubhamsinghbisht-androiddeveloper/)
 
