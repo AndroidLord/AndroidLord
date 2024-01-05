@@ -3,7 +3,10 @@
 
 # 👋 About Me:
 
-Greetings! I'm Shubham Singh Bisht, an avid software developer. From Android expertise in Java to mastering Kotlin, I've diversified my skills. Passionate about backend, I craft APIs using Django and FastAPI, favoring Python for its elegance. Eager to contribute and explore innovative projects, let's connect and code possibilities!
+Greetings! I'm Shubham Singh Bisht, an avid software developer. From Android expertise in Java to mastering Kotlin, I've diversified my skills. 
+Passionate about backend, I craft APIs using Django and FastAPI, favoring Python for its elegance. 
+
+## Here's More About Myself: I'm a..
 
 📱 **Android Enthusiast:** I've ventured into the world of Android development, crafting several applications and delving into essential libraries like Retrofit and Firebase. My goal is to create user-friendly apps that leave a positive impact on users' lives.
 
