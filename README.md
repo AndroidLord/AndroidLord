@@ -6,7 +6,7 @@ Android engineer at [Teachmint](https://www.teachmint.com). Before that, [Pratil
 
 - [androidfeed.com](https://androidfeed.com): free daily Android news and an Android roadmap for everyone.
 - [shubhamsinghbisht.com](https://shubhamsinghbisht.com/articles/): write-ups on the Android problems I solve at work.
-- [Topmate](https://topmate.io/shubhambisht): free and paid Android calls for students.
+- [Topmate](https://topmate.io/shubhambisht): book a 1:1 Android call with me.
 
 ## Android stack
 
