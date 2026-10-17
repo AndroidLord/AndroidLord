@@ -1,0 +1,24 @@
+# Fills the "Latest writing" section of README.md between the
+# <!-- BLOG-POST-LIST:START --> and <!-- BLOG-POST-LIST:END --> markers.
+name: Latest writing
+
+on:
+  schedule:
+    # Every day at 02:30 UTC
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://shubhamsinghbisht.com/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url)$newline"
+          commit_message: "Update latest writing"
