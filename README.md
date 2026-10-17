@@ -17,15 +17,6 @@ Android engineer at [Teachmint](https://www.teachmint.com). Before that, [Pratil
 - **Performance:** Perfetto, Baseline Profiles, startup and ANR fixes
 - **On-device AI:** LiteRT, ONNX Runtime, llama.cpp
 
-## Latest writing
-
-<!-- BLOG-POST-LIST:START -->- [How I Built an AI That Teaches a Lesson on a Whiteboard in 6 Days](https://shubhamsinghbisht.com/articles/ai-that-teaches-on-a-whiteboard/)
-- [How I Fixed an Android App That Froze After Every Reboot](https://shubhamsinghbisht.com/articles/android-app-froze-after-every-reboot/)
-- [How I Made Our Android App Start 25% Faster](https://shubhamsinghbisht.com/articles/android-app-start-25-percent-faster/)
-- [How I Cut a 4-Minute Video Merge to 2.4 Seconds on Android](https://shubhamsinghbisht.com/articles/android-video-merge-4-minutes-to-2-seconds/)
-- [What I Learned Building a Floating AI Assistant on Android](https://shubhamsinghbisht.com/articles/building-floating-assistant-android/)
-<!-- BLOG-POST-LIST:END -->
-
 ## Contact
 
 - LinkedIn: [shubhamsinnghbisht](https://www.linkedin.com/in/shubhamsinnghbisht/)
