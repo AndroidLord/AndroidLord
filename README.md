@@ -2,6 +2,8 @@
 
 Android engineer at [Teachmint](https://www.teachmint.com). Before that, [Pratilipi](https://www.pratilipi.com). Bengaluru.
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AndroidLord.AndroidLord)
+
 ## Building
 
 - [androidfeed.com](https://androidfeed.com): free daily Android news and an Android roadmap for everyone.
