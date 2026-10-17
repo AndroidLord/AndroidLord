@@ -21,4 +21,4 @@ Android engineer at [Teachmint](https://www.teachmint.com). Before that, [Pratil
 
 - LinkedIn: [shubhamsinnghbisht](https://www.linkedin.com/in/shubhamsinnghbisht/)
 - Site: [shubhamsinghbisht.com](https://shubhamsinghbisht.com/)
-- Email: [hello@shubhamsinghbisht.com](mailto:hello@shubhamsinghbisht.com)
+- Email: [shubhambisht965@gmail.com](mailto:shubhambisht965@gmail.com)
