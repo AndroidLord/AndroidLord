@@ -1,4 +1,4 @@
-![Shubham Singh Bisht, Android engineer at Teachmint](assets/banner.png)
+![Shubham Singh Bisht, Android engineer at Teachmint](assets/banner-animated.svg)
 
 Android engineer at [Teachmint](https://www.teachmint.com). Before that, [Pratilipi](https://www.pratilipi.com). Bengaluru.
 
