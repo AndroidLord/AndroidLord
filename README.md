@@ -1,14 +1,12 @@
-# Shubham Singh Bisht
+![Shubham Singh Bisht, Android engineer at Teachmint](assets/banner.png)
 
 Android engineer at [Teachmint](https://www.teachmint.com). Before that, [Pratilipi](https://www.pratilipi.com). Bengaluru.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AndroidLord.AndroidLord)
 
-## Building
-
-- [androidfeed.com](https://androidfeed.com): free daily Android news and an Android roadmap for everyone.
-- [shubhamsinghbisht.com](https://shubhamsinghbisht.com/articles/): write-ups on the Android problems I solve at work.
-- [Topmate](https://topmate.io/shubhambisht): book a 1:1 Android call with me.
+| Android Feed | Articles | Topmate |
+| :---: | :---: | :---: |
+| [<img src="assets/card-androidfeed.png" alt="Android Feed: daily Android news and an Android roadmap, at androidfeed.com">](https://androidfeed.com) | [<img src="assets/card-portfolio.png" alt="Write-ups on the Android problems I solve at work, at shubhamsinghbisht.com">](https://shubhamsinghbisht.com/articles/) | [<img src="assets/card-topmate.png" alt="Book a 1:1 Android call on Topmate">](https://topmate.io/shubhambisht) |
 
 ## Android stack
 
@@ -18,6 +16,11 @@ Android engineer at [Teachmint](https://www.teachmint.com). Before that, [Pratil
 - **Platform:** system overlays, Accessibility services, AIDL and IPC, foreground services, MediaProjection, MediaCodec and MediaMuxer
 - **Performance:** Perfetto, Baseline Profiles, startup and ANR fixes
 - **On-device AI:** LiteRT, ONNX Runtime, llama.cpp
+
+## Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Contact
 
